@@ -1,5 +1,6 @@
 # good example
 
+my_hash = {["first: I'm first]
 
 
 describe "nested hash" do
